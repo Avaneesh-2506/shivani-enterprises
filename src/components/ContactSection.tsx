@@ -416,6 +416,7 @@ export function ContactSection({
                         onChange={(e) => setInterest(e.target.value)}
                         className="w-full px-4 py-3 rounded-2xl bg-slate-50 dark:bg-slate-800/80 text-slate-900 dark:text-white border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-sky-400 cursor-pointer"
                       >
+                        <option value="select">Select an option</option>
                         <option value="LED Lighting Wholesale / Project">SONSHIV LED Lighting Wholesale</option>
                         <option value="SRIIVA House Cleaning Bulk">SRIIVA House Cleaning Products</option>
                         <option value="Both LED & SRIIVA Cleaning (Consolidated Supply)">Both LED & SRIIVA Cleaning (Consolidated Supply)</option>
