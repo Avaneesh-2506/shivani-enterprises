@@ -58,8 +58,8 @@ export const COMPANY_INFO: CompanyInfo = {
   },
   phones: [
     {
-      display: "+91 8948411270",
-      raw: "+918948411270",
+      display: "+91 8601551343",
+      raw: "+918601551343",
       isPrimary: true,
       isWhatsapp: true,
     },
@@ -76,10 +76,10 @@ export const COMPANY_INFO: CompanyInfo = {
     sunday: "Sunday: Open for Bulk Orders & Dealer Consultation",
   },
   whatsapp: {
-    number: "918948411270",
+    number: "918601551343",
     message:
       "Hello Shivani Enterprises, I would like to inquire about LED Lighting and SRIIVA Cleaning Products wholesale prices.",
-    link: "https://wa.me/918948411270?text=Hello%20Shivani%20Enterprises%2C%20I%20would%20like%20to%20inquire%20about%20LED%20Lighting%20and%20SRIIVA%20Cleaning%20Products.",
+    link: "https://wa.me/918601551343?text=Hello%20Shivani%20Enterprises%2C%20I%20would%20like%20to%20inquire%20about%20LED%20Lighting%20and%20SRIIVA%20Cleaning%20Products.",
   },
   brands: [
     {

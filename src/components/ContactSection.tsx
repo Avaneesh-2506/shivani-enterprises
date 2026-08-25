@@ -364,7 +364,7 @@ export function ContactSection({
                       </label>
                       <input
                         type="tel"
-                        placeholder="e.g. +91 8948411270"
+                        placeholder="e.g. +91 9999999999"
                         value={phone}
                         onChange={(e) => {
                           setPhone(e.target.value);
